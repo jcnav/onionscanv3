@@ -42,9 +42,17 @@ provided by the core go standard library:
 
 See <a href="https://github.com/s-rah/onionscan/wiki">the wiki</a> for guidance.
 
-### Grab with go get
+### Grab with go install
+
+go < 1.16:
 
 `go get github.com/s-rah/onionscan`
+
+go >= 1.16:
+
+`go install github.com/s-rah/onionscan@latest`
+
+`go run github.com/s-rah/onionscan@latest`
 
 ### Compile/Run from git cloned source
 
