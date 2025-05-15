@@ -1,0 +1,349 @@
+
+~/onionscan $     "IP": r"\b\d{1,3}(?:\.\d{1,3}){3}\b"No command IP: found, did you mean:
+ Command 7zz in package 7zip
+ Command ack in package ack-grep
+ Command acr in package acr
+ Command age in package age
+ Command agg in package agg
+ Command aha in package aha
+ Command adb in package android-tools
+ Command ant in package ant
+ Command ab in package apache2
+ Command apt in package apt
+ Command arj in package arj
+ Command a2x in package asciidoc
+ Command asy in package asymptote
+ Command at in package at
+ Command als in package atool
+ Command bat in package bat
+ Command bc in package bc
+ Command bsh in package beanshell
+ Command bed in package bed
+ Command ar in package binutils
+ Command as in package binutils-bin
+ Command ar in package binutils-is-llvm
+ Command bk in package bk
+ Command atc in package bsd-games
+ Command buf in package buf
+ Command bvi in package bvi
+ Command c in package c-script
+ Command ceu in package ceu-lang
+ Command cfm in package cfm
+ Command c++ in package clang
+ Command ccr in package codecrypt
+ Command cbc in package coinor-cbc
+ Command clp in package coinor-clp
+ Command [ in package coreutils
+ Command ocs in package cscope
+ Command lp in package cups
+ Command cvs in package cvs
+ Command d8 in package d8
+ Command dar in package dar
+ Command sh in package dash
+ Command dlv in package delve
+ Command cmp in package diffutils
+ Command bzz in package djvulibre
+ Command dig in package dnsutils
+ Command scp in package dropbear
+ Command dtc in package dtc
+ Command dte in package dte
+ Command dua in package dua
+ Command duc in package duc
+ Command duf in package duf
+ Command duk in package duktape
+ Command dx in package dx
+ Command ecj in package ecj
+ Command ecl in package ecl
+ Command ed in package ed
+ Command eja in package eja
+ Command ef in package electric-fence
+ Command iex in package elixir
+ Command erl in package erlang
+ Command et in package et
+ Command tsh in package etsh
+ Command eza in package eza
+ Command fcp in package fcp
+ Command fd in package fd
+ Command fdm in package fdm
+ Command fff in package fff
+ Command bbc in package flang
+ Command fm in package fm
+ Command fx in package fx
+ Command fzf in package fzf
+ Command fzy in package fzy
+ Command gac in package gap
+ Command dl in package gatling
+ Command awk in package gawk
+ Command gbt in package gbt
+ Command gdb in package gdb
+ Command gdl in package gdrive-downloader
+ Command gdu in package gdu
+ Command era in package geth-utils
+ Command gh in package gh
+ Command ghc in package ghc
+ Command gs in package ghostscript
+ Command git in package git
+ Command ein in package gitoxide
+ Command gio in package glib
+ Command gn in package gn
+ Command gpg in package gnupg
+ Command go in package golang
+ Command gm in package graphicsmagick
+ Command dot in package graphviz
+ Command eqn in package groff
+ Command gsf in package gsf-tools
+ Command gum in package gum
+ Command has in package has
+ Command hx in package helix
+ Command hcd in package hfsutils
+ Command hr in package hr
+ Command hh in package hstr
+ Command hub in package hub
+ Command hut in package hut
+ Command hz in package hz
+ Command ftp in package inetutils
+ Command ip in package iproute2
+ Command na6 in package ipv6toolkit
+ Command vvp in package iverilog
+ Command jo in package jo
+ Command joe in package joe
+ Command jq in package jq
+ Command jql in package jql
+ Command joe in package jupp
+ Command k9s in package k9s
+ Command kak in package kakoune
+ Command k in package kona
+ Command ksu in package krb5
+ Command dub in package ldc
+ Command ldd in package ldd
+ Command lf in package lf
+ Command lha in package lhasa
+ Command pl in package libgnustep-base
+ Command psl in package libpsl
+ Command h3 in package libuber-h3
+ Command lit in package lit
+ Command lld in package lld
+ Command llc in package llvm
+ Command not in package llvm-tools
+ Command lnd in package lnd
+ Command ksh in package loksh
+ Command lr in package lr
+ Command lrb in package lrzsz
+ Command lsd in package lsd
+ Command lux in package lux
+ Command lz4 in package lz4
+ Command m4 in package m4
+ Command ali in package mailutils
+ Command man in package mandoc
+ Command mvn in package maven
+ Command mc in package mc
+ Command mdp in package mdp
+ Command mdb in package mercury
+ Command mg in package mg
+ Command mlr in package miller
+ Command al in package mono
+ Command pee in package moreutils
+ Command mpc in package mpc
+ Command mpd in package mpd
+ Command mpv in package mpv
+ Command lz in package mtools
+ Command mu in package mu
+ Command mr in package myrepos
+ Command psc in package n-t-roff-sc
+ Command tic in package ncurses-utils
+ Command ne in package ne
+ Command arp in package net-tools
+ Command nc in package netcat-openbsd
+ Command nim in package nim
+ Command ali in package nmh
+ Command nnn in package nnn
+ Command nms in package no-more-secrets
+ Command npm in package nodejs
+ Command npm in package nodejs-lts
+ Command pp in package nss-utils
+ Command nu in package nushell
+ Command o in package o-editor
+ Command ol in package ol
+ Command jar in package openjdk-21
+ Command scp in package openssh
+ Command 7z in package p7zip
+ Command sem in package parallel
+ Command gp in package pari
+ Command fpp in package pathpicker
+ Command pb in package pb
+ Command pet in package pet
+ Command php in package php
+ Command pil in package picolisp
+ Command ps in package procps
+ Command cct in package proj
+ Command pd in package proot-distro
+ Command pup in package pup
+ Command pv in package pv
+ Command pip in package python-pip
+ Command q in package q-dns-client
+ Command qjs in package quickjs
+ Command r2 in package radare2
+ Command rbw in package rbw
+ Command rc in package rc
+ Command ci in package rcs
+ Command rem in package remind
+ Command icp in package renameutils
+ Command rig in package rig
+ Command rip in package rip2
+ Command rg in package ripgrep
+ Command rga in package ripgrep-all
+ Command rnr in package rnr
+ Command rpm in package rpm
+ Command rq in package rq
+ Command erb in package ruby
+ Command ri in package ruby-ri
+ Command sv in package runit
+ Command rw in package rw
+ Command net in package samba
+ Command scc in package scc
+ Command sd in package sd
+ Command srm in package secure-delete
+ Command sed in package sed
+ Command shc in package shc
+ Command ag in package silversearcher-ag
+ Command sl in package sl
+ Command fls in package sleuthkit
+ Command gst in package smalltalk
+ Command rec in package sox
+ Command svn in package subversion
+ Command sun in package sun
+ Command sr in package surfraw
+ Command tar in package tar
+ Command ts in package task-spooler
+ Command tcc in package tcc
+ Command nns in package tcllib
+ Command tdl in package tdl
+ Command tea in package tea
+ Command tsh in package teleport-tsh
+ Command am in package termux-am
+ Command cmd in package termux-tools
+ Command ebb in package texlive-bin
+ Command tig in package tig
+ Command sn in package tin-summer
+ Command tf in package tinyfugue
+ Command tor in package tor
+ Command trz in package trzsz-go
+ Command tsp in package tsduck-tools
+ Command tsu in package tsu
+ Command tut in package tut
+ Command tjs in package txikijs
+ Command ug in package ugrep
+ Command up in package up
+ Command upx in package upx
+ Command cal in package util-linux
+ Command cu in package uucp
+ Command uv in package uv
+ Command vim in package vim
+ Command vt in package virustotal-cli
+ Command vis in package vis
+ Command viu in package viu
+ Command vlc in package vlc
+ Command vtm in package vtm
+ Command w3m in package w3m
+ Command wg in package wireguard-tools
+ Command wiz in package wiz
+ Command wol in package wol
+ Command wrk in package wrk
+ Command wvPS in package wv-tools
+ Command xh in package xh
+ Command xml in package xmlstarlet
+ Command xxd in package xxd
+ Command xz in package xz-utils
+ Command ya in package yazi
+ Command yq in package yq
+ Command z3 in package z3
+ Command zip in package zip
+ Command zk in package zk
+ Command znc in package znc
+ Command zsh in package zsh
+~/onionscan $ }
+bash: syntax error near unexpected token `}'
+~/onionscan $
+~/onionscan $ def extract_pii_data(input_file, output_file):
+bash: syntax error near unexpected token `('
+~/onionscan $     if not os.path.exists(input_file):
+bash: syntax error near unexpected token `('
+~/onionscan $         print(f"ERROR: '{input_file}' not found.")
+bash: syntax error near unexpected token `f"ERROR: '{input_file}' not found."'
+~/onionscan $         return
+bash: return: can only `return' from a function or sourced script
+~/onionscan $
+~/onionscan $     with open(input_file, 'r', encoding='utf-8') as f:
+bash: syntax error near unexpected token `('
+~/onionscan $         lines = f.readlines()
+bash: syntax error near unexpected token `('
+~/onionscan $
+~/onionscan $     with open(output_file, 'w', newline='', encoding='utf-8') as out:
+bash: syntax error near unexpected token `('
+~/onionscan $         writer = csv.writer(out)
+bash: syntax error near unexpected token `('
+~/onionscan $         header = [
+No command header found, did you mean:
+ Command head in package coreutils
+ Command hexer in package hexer
+~/onionscan $             "Name", "Region", "Phone", "Email", "DOB", "Medicare", "Centrelink",
+No command Name, found, did you mean:
+ Command named in package dnsutils
+ Command lame in package lame
+ Command namei in package util-linux
+~/onionscan $             "DriverLicence", "TFN", "ABN", "Address", "BankAcc", "CardNumber",
+DriverLicence,: command not found
+~/onionscan $             "CCExp", "CCV", "IP", "RawLine"
+CCExp,: command not found
+~/onionscan $         ]
+No command ] found, did you mean:
+ Command c in package c-script
+ Command [ in package coreutils
+ Command k in package kona
+ Command o in package o-editor
+ Command q in package q-dns-client
+~/onionscan $         writer.writerow(header)
+bash: syntax error near unexpected token `header'
+~/onionscan $
+~/onionscan $         states = ["VIC", "NSW", "QLD", "SA", "WA", "TAS", "ACT", "NT"]
+The program states is not installed. Install it by executing:
+ pkg install enscript
+~/onionscan $         for line in lines:
+>             for state in states:
+bash: syntax error near unexpected token `for'
+~/onionscan $                 if state in line:
+>                     data = {key: (match.group() if (match := re.search(p, line)) else '') for key, p in patterns.items()}
+bash: syntax error near unexpected token `('
+~/onionscan $                     row = [
+No command row found, did you mean:
+ Command rbw in package rbw
+ Command rw in package rw
+~/onionscan $                         data["Name"], state, data["Phone"], data["Email"], data["DOB"],
+data[Name],: command not found
+~/onionscan $                         data["Medicare"], data["Centrelink"], data["DriverLicence"],
+data[Medicare],: command not found
+~/onionscan $                         data["TFN"], data["ABN"], data["Address"], data["BankAcc"],
+data[TFN],: command not found
+~/onionscan $                         data["CardNumber"], data["CCExp"], data["CCV"], data["IP"],
+data[CardNumber],: command not found
+~/onionscan $                         line.strip().replace(",", ";")
+bash: syntax error near unexpected token `.replace'
+~/onionscan $                     ]
+No command ] found, did you mean:
+ Command c in package c-script
+ Command [ in package coreutils
+ Command k in package kona
+ Command o in package o-editor
+ Command q in package q-dns-client
+~/onionscan $                     writer.writerow(row)bash: syntax error near unexpected token `row'
+~/onionscan $
+~/onionscan $     print(f"Script completed. Output saved to {output_file}")
+bash: syntax error near unexpected token `f"Script completed. Output saved to {output_file}"'
+~/onionscan $
+~/onionscan $ # Run the script
+~/onionscan $ input_file = 'input.txt'
+input_file: command not found
+~/onionscan $ output_file = 'output.csv'
+output_file: command not found
+~/onionscan $ extract_pii_data(input_file, output_file)https://extractor.py
+bash: syntax error near unexpected token `input_file,'
